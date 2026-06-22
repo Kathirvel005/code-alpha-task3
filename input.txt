@@ -1,0 +1,7 @@
+#SAMPLE FILE
+Hello Team,
+
+Please contact us at support@example.com for support.
+You can also reach john.doe@gmail.com or info@company.org.
+
+Thank you!
