@@ -1,0 +1,4 @@
+#sample output
+support@example.com
+john.doe@gmail.com
+info@company.org
